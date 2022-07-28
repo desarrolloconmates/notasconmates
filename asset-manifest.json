@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/notasconmates/static/css/main.073c9b0a.css",
-    "main.js": "/notasconmates/static/js/main.55bec89f.js",
+    "main.js": "/notasconmates/static/js/main.ba163a21.js",
     "static/js/787.33e5e582.chunk.js": "/notasconmates/static/js/787.33e5e582.chunk.js",
     "index.html": "/notasconmates/index.html",
     "main.073c9b0a.css.map": "/notasconmates/static/css/main.073c9b0a.css.map",
-    "main.55bec89f.js.map": "/notasconmates/static/js/main.55bec89f.js.map",
+    "main.ba163a21.js.map": "/notasconmates/static/js/main.ba163a21.js.map",
     "787.33e5e582.chunk.js.map": "/notasconmates/static/js/787.33e5e582.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.55bec89f.js"
+    "static/js/main.ba163a21.js"
   ]
 }
